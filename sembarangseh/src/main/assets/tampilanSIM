@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<table>
+
+    <tr align="right">
+        <td>Nama</td>
+        <td></td>
+        <td align="left">: Muhammad Sarwani</td>
+        <td>PRIA</td>
+    </tr>
+
+    <tr align="right">
+        <td>Alamat</td>
+        <td></td>
+        <td align="left">: PURWODADI 1/101</td>
+    </tr>
+
+    <tr>
+        <td rowspan="10">
+            <img src="foto.jpg" width="150px">
+        </td>
+
+    </tr>
+
+    <tr>
+        <td align="left">RT 007 RW 004
+        </td>
+    </tr>
+
+    <tr>
+        <td>SURABAYA</td>
+    </tr>
+
+    <tr>
+        <td>Tgl.Lahir</td>
+        <td>: 25-08-1997</td>
+    </tr>
+
+    <tr>
+        <td>Tinggi</td>
+        <td>: 172 cm</td>
+    </tr>
+
+    <tr>
+        <td>Pekerjaan</td>
+        <td>: PELAJAR/MAHASISWA</td>
+    </tr>
+
+    <tr>
+        <td>No. SIM</td>
+        <td>: 970815140942</td>
+    </tr>
+
+    <tr>
+        <td>Berlaku s/d</td>
+        <td>: 25-08-2019</td>
+    </tr>
+
+
+</table>
+</body>
+</html>
